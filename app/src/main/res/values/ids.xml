@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addTransportDate" type="id"></item>
+    <item name="addTransportName" type="id"></item>
+    <item name="addTransportPrice" type="id"></item>
+    <item name="addTransportDescription" type="id"></item>
+    <item name="addTransportButton" type="id"></item>
+    <item name="editTransportName" type="id"></item>
+    <item name="editTransportDescription" type="id"></item>
+    <item name="editTransportDate" type="id"></item>
+    <item name="editTransportPrice" type="id"></item>
+    <item name="editTransportButton" type="id"></item>
+    <item name="transportEditDelete" type="id"></item>
+</resources>
