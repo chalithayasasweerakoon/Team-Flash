@@ -9,8 +9,7 @@
     android:gravity="center"
     android:paddingLeft="20dp"
     android:paddingRight="20dp"
-    android:backgroundTint="@android:color/white"
-    tools:context=".food">
+    android:backgroundTint="@android:color/white">
 
     <ImageView
         android:layout_width="70dp"
@@ -20,7 +19,7 @@
         android:layout_marginTop="40dp"
         android:src="@drawable/food" />
 
-    <android.support.design.widget.TextInputLayout
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_centerHorizontal="true"
@@ -40,13 +39,13 @@
 
 
 
-    </android.support.design.widget.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
 
 
 
 
 
-    <android.support.design.widget.TextInputLayout
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_centerHorizontal="true"
@@ -63,9 +62,9 @@
 
 
 
-    </android.support.design.widget.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
 
-    <android.support.design.widget.TextInputLayout
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_centerHorizontal="true"
@@ -85,9 +84,9 @@
 
 
 
-    </android.support.design.widget.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
 
-    <android.support.design.widget.TextInputLayout
+    <com.google.android.material.textfield.TextInputLayout
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:layout_centerHorizontal="true"
@@ -108,7 +107,7 @@
 
 
 
-    </android.support.design.widget.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
 
 
     <ImageView
